@@ -2,6 +2,8 @@
   "name": "kryptografie",
   "version": "0.0.0",
   "dependencies": {
+    "crypto2": "2.0.0",
+    "node-rsa": "1.0.1",
     "sha1": "1.1.1"
   }
 }
