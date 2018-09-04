@@ -53,13 +53,19 @@ $ openssl x509 \
 
 ## Links
 
+- [Auth0](https://auth0.com/)
 - [Awesome cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Crypto 101](https://www.crypto101.io/)
 - [crypto2](https://github.com/thenativeweb/crypto2)
 - [Der "ehrliche Achmed" bittet um Vertrauen](https://www.heise.de/security/meldung/Der-ehrliche-Achmed-bittet-um-Vertrauen-1231083.html)
 - [Flauthority](https://github.com/trondhindenes/Flauthority)
+- [IdentityServer](https://identityserver.io/)
+- [JWT.io](https://jwt.io/)
+- [Keycloak](https://www.keycloak.org/)
 - [Klausis Krypto Kolumne](http://scienceblogs.de/klausis-krypto-kolumne/)
+- [Let's Encrypt](https://letsencrypt.org/)
 - [OpenSSL Cookbook](https://www.feistyduck.com/books/openssl-cookbook/)
+- [Vault](https://www.vaultproject.io/)
 
 ## Bücher
 
