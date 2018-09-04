@@ -57,6 +57,7 @@ $ openssl x509 \
 - [Crypto 101](https://www.crypto101.io/)
 - [crypto2](https://github.com/thenativeweb/crypto2)
 - [Der "ehrliche Achmed" bittet um Vertrauen](https://www.heise.de/security/meldung/Der-ehrliche-Achmed-bittet-um-Vertrauen-1231083.html)
+- [Flauthority](https://github.com/trondhindenes/Flauthority)
 - [Klausis Krypto Kolumne](http://scienceblogs.de/klausis-krypto-kolumne/)
 - [OpenSSL Cookbook](https://www.feistyduck.com/books/openssl-cookbook/)
 
